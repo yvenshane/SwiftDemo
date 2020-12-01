@@ -15,6 +15,7 @@
 		2C1048782575DEA400667567 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C1048762575DEA400667567 /* LaunchScreen.storyboard */; };
 		2C1048842575E34A00667567 /* DefineConstantsAndVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1048832575E34A00667567 /* DefineConstantsAndVariables.swift */; };
 		2C8F3F762575EBED0062EE24 /* NumericType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8F3F752575EBED0062EE24 /* NumericType.swift */; };
+		2C8F3F792575F00E0062EE24 /* Tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8F3F782575F00E0062EE24 /* Tuple.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2C1048792575DEA400667567 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C1048832575E34A00667567 /* DefineConstantsAndVariables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefineConstantsAndVariables.swift; sourceTree = "<group>"; };
 		2C8F3F752575EBED0062EE24 /* NumericType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumericType.swift; sourceTree = "<group>"; };
+		2C8F3F782575F00E0062EE24 /* Tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tuple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				2C1048832575E34A00667567 /* DefineConstantsAndVariables.swift */,
 				2C8F3F752575EBED0062EE24 /* NumericType.swift */,
+				2C8F3F782575F00E0062EE24 /* Tuple.swift */,
 			);
 			path = BasicDataType;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				2C1048842575E34A00667567 /* DefineConstantsAndVariables.swift in Sources */,
 				2C1048702575DEA300667567 /* ViewController.swift in Sources */,
 				2C10486C2575DEA300667567 /* AppDelegate.swift in Sources */,
+				2C8F3F792575F00E0062EE24 /* Tuple.swift in Sources */,
 				2C10486E2575DEA300667567 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
