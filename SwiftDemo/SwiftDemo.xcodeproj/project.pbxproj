@@ -14,6 +14,7 @@
 		2C1048752575DEA400667567 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C1048742575DEA400667567 /* Assets.xcassets */; };
 		2C1048782575DEA400667567 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C1048762575DEA400667567 /* LaunchScreen.storyboard */; };
 		2C1048842575E34A00667567 /* DefineConstantsAndVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1048832575E34A00667567 /* DefineConstantsAndVariables.swift */; };
+		2C8F3F762575EBED0062EE24 /* NumericType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8F3F752575EBED0062EE24 /* NumericType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2C1048772575DEA400667567 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C1048792575DEA400667567 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C1048832575E34A00667567 /* DefineConstantsAndVariables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefineConstantsAndVariables.swift; sourceTree = "<group>"; };
+		2C8F3F752575EBED0062EE24 /* NumericType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumericType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				2C1048832575E34A00667567 /* DefineConstantsAndVariables.swift */,
+				2C8F3F752575EBED0062EE24 /* NumericType.swift */,
 			);
 			path = BasicDataType;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C8F3F762575EBED0062EE24 /* NumericType.swift in Sources */,
 				2C1048842575E34A00667567 /* DefineConstantsAndVariables.swift in Sources */,
 				2C1048702575DEA300667567 /* ViewController.swift in Sources */,
 				2C10486C2575DEA300667567 /* AppDelegate.swift in Sources */,
